@@ -1,0 +1,419 @@
+<resources>
+    <string name="app_name">CTGH</string>
+ <string name="Shoping_centere">
+      1. AFMI PLAZA\n
+        Address: 1/A, Bayazid Bostami Rd, Chittagong 4000\n
+        Phone: 312550450\n
+        \n
+        2. SANMAR OCEAN CITY\n
+        Address: CDA Avenue, Chittagong 4000\n
+        Phone: 312553401\n
+        \n
+        3. YUNUSCO CITY CENTRE\n
+        Address: 739, 805 CDA Ave, Chittagong\n
+        4. Finlay Square\n
+        Address: 2 CDA Ave, Chittagong 4000\n
+        Phone: 01745-315908\n
+        \n
+        5. CHITTAGONG SHOPPING COMPLEX\n
+        Address: Rajsho Circle-01, Chittagong\n
+        Phone: 01714-009663\n
+        \n
+        6. MIMI SUPER MARKET\n
+        Address: Chittagong\n
+        Phone: 031-656464\n
+        \n
+        7. SINGAPORE BANGKOK MARKET\n
+        Address: Agrabad Access Rd, Chittagong\n
+        Phone: 312518055\n
+        \n
+        8. LUCKY PLAZA\n
+        Address: Agrabad Access Road, Chittagong 4100\n
+        Phone: 01832-807474\n
+       \n
+        9. AMEEN CENTER\n
+        Address: Chittagong\n
+        Phone: 01913-621919\n
+        \n
+        10. AKHTARUZZAMAN CENTRE\n
+        Address: Akhtaruzzaman Centre,, শেখ মুজিব রোড, Chittagong 4100\n
+        11. BIPONI BITAN\n
+        Address: New Market Circle, Huseyn Shaheed Suhrawardy Road, Chittagong 4000\n
+        Phone: 031-631832\n
+        \n
+        12. ALONGKAR SHOPPING COMPLEX\n
+        Address: অলঙ্কার মোড়, Chittagong\n
+        Phone: 01759-132141\n
+        \n
+        13. NOOR SHOPPING CENTER\n
+        Address: Chittagong\n
+        Phone: 01715-691153\n
+        \n
+        14. GULZAR TOWER\n
+        Address: Gulzar more, Chatteshwari Rd, Chittagong 4203\n
+        Phone: 01762-686268\n
+        \n
+        15. SOUTH LAND CENTER\n
+        Address: Agrabad, Chittagong\n
+        \n
+        16. SHAH AMANAT CITY CORPORATION SUPER MARKET\n
+        Address: 184/A Jubilee Rd, Chittagong 4000\n
+        Phone: 01817-726202\n
+        \n
+        17. SINGAPORE MARKET\n
+        Address: Jalal Commissioner Ln, Chittagong\n
+        \n
+        18. ADHUNIK CHAWK SUPER MARKET\n
+        Address: Lal Chand Rd, Chittagong\n
+        Phone: 01817-273986\n
+        \n
+        19.SHOLASHAHAR SUPER MARKET\n
+        Address: Bayazid Bostami Rd, Chittagong\n
+        Phone: 01777-742536
+
+ </string>
+    <string name="txt_hospital">
+        1. CSCR (Pvt.) Limited\n
+        Category: Clinic\n
+        Specialty: Accident  Emergency, Anaesthesiology,\n
+                   Cardiology, Cardiothoracic Surgery,  Critical Care Dentistry\n
+        Address: 1675/A, O.R. Nizam Road, Chittagong\n
+        Contact: 01744-589950, 01755-019576, 01876-844882-\n
+        Phone: 031-656565\n
+        Fax: +880-31-2550631\n
+        Email: info@cscrbd.com, it@cscrbd.com\n
+        Web:\n
+        \n
+        2. Name	  : Chattagram Maa O Shishu Hospital\n
+        Category  : Hospital\n
+        Specialty : Accident  Emergency, Anaesthesiology, Cardiology, \n
+                    Cardiothoracic Surgery, Critical Care Dentistry\n
+        Address	  : Agrabad, Chittagong\n
+        Contact	  : +880-31-2520063, 711236, 718521, 728525\n
+        Fax		  : +880-31-2525409\n
+        Email	  : www.maa-shishu-ctg.org\n
+        Web		  :\n
+        \n
+        3. Name	  : Labaid Specialized Hospital\n
+        Category  : Hospital \n
+        Specialty : Accident  Emergency, Anaesthesiology, Cardiology,\n
+                    Cardiothoracic Surgery, Critical Care Dentistr\n
+        Address	  : Forum Central (2nd floor), 787/863 M M Ali Road,\n
+                    Gol Pahar Mor, Mehedi Bag, Chittagong\n
+        Contact	  : 01730-031897\n
+        Fax		  : +880-02-9615497\n
+        Email	  : info@labaidgroup.com\n
+        Web		  : http://labaidgroup.com\n
+        \n
+        4. Name	  : Chittagong Diabetic Hospital\n
+        Specialty : Diabetic Address\n
+        Address   : Zakir Hossain Road, Khulshi, Chittagong	\n
+        Contact	  : Mobile: 01198-140322, Phone: 031-659435-7\n
+        Email	  : cgdbatic@gmail.com\n
+        Web		  : www.ctgdiabetichospital.org\n
+        \n
+        5. Name   : Popular Diagnostic Center\n
+        Category  : Diagnostic \n
+        Address	  : 20/B K.B Fazlul Kader Road, Panchlaish, Chittagong.\n
+        Contact	  : Phone: 031-655401\n
+        Fax		  : 031-655435\n
+        Email	  : info@populardiagnostic.com\n
+        Web 	  : www.populardiagnostic.com\n
+        \n
+        6. Name	  : Chittagong Medical College\n
+        Address	  : 57, K.B. FAZLUL KADER ROAD, P.S- PANCHLAISH,\n
+                    P.O- CHAWKBAZAR, Chittagong 4203\n
+        Contact	  : 01819-637685\n
+        Web		  :\n
+        \n
+        7. Name	  : Chittagong Diabetic General Hospital\n
+        Address	  : Zakir Hossain Road, Khulsi, Chittagong 4212\n
+        Contact	  :  01731-253990\n
+        Web       :\n
+        \n
+        8. Name	  : Memon Maternity Hospital\n
+        Address   : 55- Sadarghat Road. Chittagong-4000.\n
+        Contact	  : Phone-617169, 621799, 621798\n
+        Web		  : http://www.ccc.org.bd/maternity_hospitals\n
+       \n
+        9. Name	  : Royal Hospital\n
+        Category  : Category: General Hospital\n
+        Address	  : G.E.C Circle, O.R Nizam Road\n
+        Phone	  : +880-31-658842, 658849, 657193\n
+        Web       :\n
+        \n
+        10. Name  : Chattagram International Dental College and Hospital\n
+        Address	  : 206/1, Haji Chand Mia Road, Shamser Para\n
+                    Chandgaon, Chittagong\n
+        Contact	  : +880-1816557425, 01815953125\n
+        Fax		  : +880-31 672062\n
+        Web		  : www.cidch.edu.bd\n
+        \n
+        11. Name  : Lions Eye Hospital\n
+        Address	  : N1, Chittagong\n
+        Contact	  : 01674-786180\n
+        Web		  :\n
+        \n
+        12. Name  : Centre for Specialized Care Reaseach\n
+        Address	  : 1675/A O.R. Nizam Rd, Chittagong\n
+        Contact	  : 01814-856789\n
+        Web		  :\n
+</string>
+    <string name="txt_computer">
+        1.	COMPUTER VILLAGE\n
+        Address: Chowmuhani, Sheikh Mujib Rd, Chittagong 4100\n
+        \n
+        2.	RYANS COMPUTERS- GEC CIRCLE\n
+        Address: Yunusco City Centre, 787 CDA Avenue, Shop No. 428, 429, 4th Floor West Side, CDA Avenue, Chittagong 4000\n
+        Phone: 01755-513950\n
+        \n
+        3.	MY COMPUTER GARDEN\n
+        Address: Dew Dubai Market, Chittagong, 4100\n
+        Phone: 01819-623852\n
+        \n
+        4. KB ART  COM PUTER\n
+        Address: 222/223, Mozahar Bhaban (G/F), Anderkilla, Chittagong 4000, Momin Rd, Chittagong\n
+        Phone: 01735-055557\n
+        \n
+        5. GLOBAL TOUCH\n
+        Address: Shop No 4 3rd Floor Sha Amanat City Corp Super Market Jublee Road, Chittagong\n
+        Phone: 01709-857200\n
+        \n
+        6. MAZUMDER COMPUTERS\n
+        Address: Pathaniagoda, Chittagong\n
+        Phone: 01815-556119\n
+        7. RYANS COMPUTERS- AGRABAD\n
+        Address: 472, Parabat Center, Chowmuhani, Sheikh Mujib Rd, Chittagong 4100\n
+        Phone: 01755-554903\n
+        \n
+        8. IAE COMPUTER AND CYBER CAFÉ\n
+        Address: 22, C-Block, 2nd Floor, Gulzar complex, chawk Bazar, chittagong, Chatteshwari Rd, Chittagong 4000\n
+        Phone: 01768-412466\n
+        \n
+        9. COMPUTER CAFÉ\n
+        Address: 9 no Bhatiari Union parishod, Bhatiari, Chittagong 4315\n
+        Phone: 01743-919579\n
+        \n
+        10. RUPSHA COMPUTERS\n
+        Address: M. A Aziz Rd, Chittagong\n
+        \n
+        11. IT SOLUTION AND COMPUTERS (ITSC)\n
+        Address: Ground Floor, Jamalpur Market, Old Dhaka-Chittagong Hwy, Baraiyarhat, 4326\n
+        Phone: 01818-748410\n
+        \n
+        12. SOUTH BANGLA COMPUTERS\n
+        Address: Nazir Bari Ln, Chittagong\n
+        Phone: 01678-040445\n
+        \n
+        13. DUBAI ELECTRONICS BD\n
+        Address: Yunusco City Centre, CDA Avenue, Shop No. 453, 454,\n
+        4th Floor , CDA Ave, Chittagong 4000, Bangladesh, CDA Ave, Chittagong 4000 \n
+        Phone: 01865-355355\n
+        \n
+        14.  IT WORLD\n
+        Address: Sheikh Mujib Rd, Chittagong\n
+        Phone: 01829-333053\n
+        \n
+        15. DIGITAL COMPUTER\n
+        Address: Chittagong\n
+        Phone: 01911-882541\n
+        \n
+        16. RM TECHNOLOGY BD\n
+        Address: Commerce College Road, Chittagong\n
+        Phone: 01614-118332\n
+
+
+    </string>
+    <string name="txt_emergency">
+
+         BLOOD BANK\n
+         \n
+        1. B4ALL(BLOOD FOR ALL)\n
+          Address: 5B,Ten Star Corporation,314,Sheikh Mujib Road, Agrabad, Chittagong.\n
+          phone: 01625-524255\n
+        \n
+        2 .FATEMA BRGUM RED CRESENT BLOOD CENTER\n
+           Address:395 Kata Pahar Lane, Kotwali, Chittagong.\n
+           Phone: 031-612395\n
+          \n
+        3. CHITTAGONG MEDICAL COLLEGE BLOOD BANK\n
+           Phone:619199, 031-619199\n
+          \n
+        4. SANDHANI BLOOD BANK\n
+           Address: Chittagong Medical College unit,Chittagong\n
+           Phone:031-616625\n
+         \n
+        5. MONI BLOOD BANK\n
+           Address: South Kulshi Road,Chittagong.\n
+           Phone: 01819-171757\n
+         \n
+         AMBILANCE SERVICE\n
+         \n
+        1. ALIF AMBULANCE SERVICE\n
+           47, Panchlaish R/A,Chittagong\n
+           Phone:031-657574, 01819380000, 01819325060\n
+        \n
+        2. DEAD BODY CARRIER\n
+           Chittagong\n
+           Phone:031-650000\n
+        \n
+        3. FIRE SERVICE AMBULANCE\n
+           Chittagong\n
+           Phone:031-716326-7
+        \n
+        4. GENERAL HOSPITAL\n
+           Chittagong\n
+           Phone:031-619584\n
+        \n
+        5. HOLY CRESENT HOSPITAL\n
+           Chittagong\n
+           Phone:031-620025\n
+        \n
+        6. MEDIA AMBULANCE SERVICE\n
+           Chittagong\n
+           Phone: 031-650000\n
+        \n
+        7. MODERN AMBULANCE SERVICE\n
+          20, K.B. Fazlul Quader Road,\n
+          Chittagong\n
+          Phone:031-639730, 0154633214, 01716074497\n
+        \n
+        8. POLY HOSPITAL\n
+          Chittagong\n
+          Phone:031-502024, 505021-9\n
+        \n
+        9.RAILWAY HOSPITAL\n
+            Chittagong\n
+            Phone:031-502220\n
+        \n
+        10. UPASHAM HOSPITAL\n
+            Chittagong\n
+            Phone:031-637243\n
+         \n
+        11. ALIF AMBULANCE SERVICE\n
+            Phone: 031-657474, 01819-325060\n
+         \n
+        12. ALPA(PVT) AMBULANCE SERVICE\n
+           Mobile: 01819-327070, 01819-383636\n
+        \n
+        FIRE SERVICES\n
+        \n
+        1. BANGLADESH FIRE SERVICES AND CIVIL DEFENCE(CHITTAGONG CONTROL ROOM)\n
+           Phone: 031-716326, 031-716327, 01730-336666\n
+         \n
+        2. FIRE SERVICES AND CIVIL DEFENCE NANDANKANON, CHITTAGONG\n
+           Phone: 031-630334\n
+         \n
+        3. FIRE SERVICES AND CIVIL DEFENCE, PATENGA, CHITTAGONG\n
+           Phone: 01719-678720\n
+         \n
+        4. FIRE STATION,CEPZ ENTRY ROAD, CHITTAGONG\n
+           Phone: 01730-002425\n
+         \n
+        5. BANDAR FIRE STATION CHITTAGONG\n
+           Phone: 031-2520339, 01730-002420\n
+
+
+
+</string>
+    <string name="txt_tourist">
+        1.	SAINT MARTIN ISLAND\n
+        \n
+        2.	COX’S BAZAR SEA BEACH\n
+        \n
+        3.	INANI BEACH (COX’ BAZAR)\n
+        \n
+        4.	NILGIRI MOUNTAINS (BANDARBAN)\n
+        \n
+        5.	NILACOL (BANDARBAN)\n
+        \n
+        6.	KEOKRADONG (BANDARBAN)\n
+        \n
+        7.	SHOILO PROPAT (BANDARBAN)\n
+        \n
+        8.	SHUVOLONG WATERFAL ( RANGAMATI)\n
+        \n
+        9.	PARJATAN HANGING BRIDGE\n
+        \n
+        10.	SAJEK ( KHAGRACHARI)\n
+        \n
+        11.	KAPTAI LAKE\n
+        \n
+        12.	KARNAPHULI RIVER\n
+        \n
+        13.	HIMCHARI\n
+        \n
+        14.	JAMBURI UDDAN,AGRABAD\n
+        \n
+        15.	FOY’S LAKE\n
+        \n
+        16.	NAVAL BEACH\n
+        \n
+        17.	PATENGA BEACH\n
+        \n
+        18.	CHITTAGONG COMMON WEALTH WEAR\n
+        \n
+        19.	ETHNOLOGICAL MUSEUM\n
+        \n
+        20.	ZIA MEMORIAL MUSEUM\n
+        \n
+        21.	CHANDANPURA MOSQUE\n
+         \n
+        22.	KHAIYCHARA FALLS
+
+    </string>
+    <string name="txt_Sports">
+       1. CHITTAGONG SPORTS\n
+        Address: Shahid Saifuddin Khaled Road, kazir Deori, Khulshi, Chittagong\n
+        \n
+        2. STADIUM SPORTS STORES\n
+        Address: Shahid Saifuddin Khaled Road, kazir Deori, Khulshi, Chittagong\n
+        \n
+        3. GOODBUY INC (SPORT ZONE)\n
+        Address: Shop no 14, Apollo shopping center, Kazir dewri, Chittagong.\n
+        \n
+        4. SPORTS ZONE\n
+        Address: M A Aziz Stadium, Kazir dewri \n
+        \n
+        5. VIP SPORTS\n
+        Address: Apollo shopping center, 23,, Chittagong\n
+        \n
+        6. YUSUP SPORTS\n
+        Address: Shahid Saifuddin Khaled Road, kazir Deori, Khulshi, Chittagong\n
+        \n
+        7. SA SPORTS\n
+        Address: kazir Deori, Khulshi, Chittagong\n
+        \n
+        8. POWER SPORTS\n
+        Address: Shahid Saifuddin Khaled Road, kazir Deori, Khulshi, Chittagong\n
+        \n
+        9. STAR SPORTS\n
+        Address: kazir Deori, Khulshi, Chittagong\n
+        \n
+        10.K KOBRA\n
+        Address: O.R Nizam Road, Chittagong\n
+        \n
+        11. LOTTO\n
+        Address: 96, Chowdhury plaza, East Nasirabad, Sholashahar(Shoping Complex),Chittagong\n
+        \n
+        12. MAA CYCLE STORE\n
+        Address: Dhaka Trunk Road, Chittagong\n
+
+    </string>
+    <string name="txt_about">
+        This app is created for the greater welfare of the people.\n
+        \n
+        In this app people will find the address and phone number of many hospital, blood bank, and ambulance service which help to save lives.\n
+        \n
+        People also find many kinds of shop address and phone number such as shopping center, hospital, computer shop, sports.\n
+        \n
+        From some Chittagong best shop.\n
+        \n
+        This app will be help people to save time and lives.\n
+        \n
+        Please don’t miss this app.\n
+        \n
+        Created By: Mirajul Hoq.
+
+    </string>
+</resources>
