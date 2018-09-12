@@ -14,7 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="173dp"
-        android:text="CHITTAGONG HELPLINE"
+        android:text="CTG HELPLINE"
         android:textColor="@color/colorAccent"
         android:textSize="30sp"
         android:textStyle="bold" />
